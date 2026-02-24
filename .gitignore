@@ -1,0 +1,68 @@
+# ------------------------------
+# OS / Editor
+# ------------------------------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ------------------------------
+# Secrets / env
+# ------------------------------
+.env
+.env.*
+!.env.example
+
+# ------------------------------
+# Python / Django
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.so
+.Python
+.python-version
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Packaging / tooling
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Django local files
+db.sqlite3
+*.sqlite3
+media/
+staticfiles/
+backend/spend_sense_project/settings.py
+
+# ------------------------------
+# Node / Frontend
+# ------------------------------
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ------------------------------
+# Logs
+# ------------------------------
+*.log
