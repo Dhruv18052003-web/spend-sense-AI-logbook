@@ -1,4 +1,4 @@
-# Spend Sense AI Logbook
+# Spend Sense AI Logbook (Smart AI Logbook)
 
 A conversational AI-powered personal expense tracker. Log expenses, add income, and query your spending history — all through natural language chat. Supports English, Hindi, and mixed-language input.
 
