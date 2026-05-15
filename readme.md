@@ -168,7 +168,7 @@ AI: "Today's expenses: Chai ₹20, Auto ₹120, Lunch ₹180."
 5. **Semantic Expansion** — For broad queries, finds all related semantic concepts in the database
 6. **Response Generator** — Converts structured results into natural language, matching the user's language and script
 
-## 👨‍💻 System Architect
+## 👨‍💻 Developer
 
 **Dhruv Umang Joshi**
 
